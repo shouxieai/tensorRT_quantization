@@ -1,5 +1,6 @@
 
 # TensorRT Quantization Tutorial
+***if you feel the tutorial is good! why not give us a star!⭐⭐⭐***
 
 This repository relates two main sections: **Fundamentals** and **Practical Application**, aiming to provide a comprehensive guide on model quantization in TensorRT.
 
@@ -50,7 +51,10 @@ The practical application section is paid content. Please visit the link below t
 
 # TensorRT 量化教程
 
+***如果你觉得这个教程很赞，欢迎给星星哟!⭐⭐⭐***
+
 本仓库分为涉及两个部分：**基础知识**和**实战应用**，旨在全面讲解 TensorRT 下的模型量化。
+
 
 ## 基础知识
 
