@@ -11,7 +11,7 @@ Both the video and code for this section are completely open-source.
 - **Video Tutorial**: [Bilibili Link](https://www.bilibili.com/video/BV18L41197Uz/?spm_id_from=333.788&vd_source=eefa4b6e337f16d87d87c2c357db8ca7)
 - **Code Repository**: [GitHub Link](https://github.com/shouxieai/tensorRT_quantization)
 
-### Table of Contents[basics]
+### Table of Contents
 
 1. **Principles of Model Quantization**
    - 1.1 Definition and Significance of Quantization
@@ -65,7 +65,7 @@ The practical application section is paid content. Please visit the link below t
 
 ### 目录
 
-1. **模型量化原理**[基础]
+1. **模型量化原理**
    - 1.1 量化的定义及意义
      - 1.1.1 模型权重分析
      - 1.1.2 量化的意义
